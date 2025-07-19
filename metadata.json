@@ -2,14 +2,14 @@
   "name": "Cheettos Token",
   "symbol": "CHEETTOS",
   "description": "CHEETTOS is a token of Cheettos Solana Token Creation Platform",
-  "image": "https://gundog-journal.com/app/uploads/sites/2/2025/01/159_big.jpg",
+  "image": "https://github.com/jonlindenmeyer/tests/blob/main/cheettos.png",
   "external_url": "null",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://gundog-journal.com/app/uploads/sites/2/2025/01/159_big.jpg",
-        "type": "image/jpg"
+        "uri": "https://github.com/jonlindenmeyer/tests/blob/main/cheettos.png",
+        "type": "image/png"
       }
     ],
     "category": "image"
