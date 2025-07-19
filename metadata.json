@@ -2,13 +2,13 @@
   "name": "Cheettos Token",
   "symbol": "CHEETTOS",
   "description": "CHEETTOS is a token of Cheettos Solana Token Creation Platform",
-  "image": "https://github.com/jonlindenmeyer/tests/blob/main/cheettos.png",
-  "external_url": "null",
+  "image": "https://raw.githubusercontent.com/jonlindenmeyer/tests/main/cheettos.png",
+  "external_url": null,
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/jonlindenmeyer/tests/blob/main/cheettos.png",
+        "uri": "https://raw.githubusercontent.com/jonlindenmeyer/tests/main/cheettos.png",
         "type": "image/png"
       }
     ],
